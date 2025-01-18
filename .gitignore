@@ -23,24 +23,3 @@ Thumbs.db
 *.dylib
 *.dll
 *.exe
-
-# Autotools generated files
-Makefile
-Makefile.in
-/autom4te.cache/
-/config.*
-*.la
-*.lo
-.deps/
-.libs/
-/libtool
-/aclocal.m4
-/configure
-/stamp-h1
-*.pc
-
-# CMake generated files
-CMakeCache.txt
-CMakeFiles/
-cmake_install.cmake
-*.cmake
